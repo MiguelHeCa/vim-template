@@ -1,9 +1,11 @@
 #! /usr/bin/env python3
 # vim:fenc=utf-8
 #
-# Copyright © %YEAR% %USER% <%MAIL%>
+# Copyright © %YEAR% by
+# %USERONE% <%MAILONE%> and
+# %USERTWO% <%MAILTWO%>
 #
-# Distributed under terms of the %LICENSE% license.
+# All rights Reserved
 
 """
 %HERE%

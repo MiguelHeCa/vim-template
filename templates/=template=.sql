@@ -1,8 +1,10 @@
 /*
  * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
+ * Copyright (C) %YEAR% by
+ * %USERONE% <%MAILONE%> and
+ * %USERTWO% <%MAILTWO%> and
  *
- * Distributed under terms of the %LICENSE% license.
+ * All rights reserved
  */
 
 select %HERE%
